@@ -14,7 +14,7 @@
 - Dahye Kim
 - Soonkyun Kwon
 - Haru Kim
-- Hyuksang Kwon
+- Hyeoksang Kwon
 
 ---
 
@@ -102,7 +102,7 @@ Performance is evaluated through a **Leaderboard**.
 - **Soonkyun Kwon**
   - https://app.notion.com/p/ai-38fbfd6acdce80d3bd81d60bb89c35f9?source=copy_link
 
-- **Hyuksang Kwon**
+- **Hyeoksang Kwon**
   - https://app.notion.com/p/395a15136d7e809a8693deb2d9703464?source=copy_link
 
 - **Haru Kim**
